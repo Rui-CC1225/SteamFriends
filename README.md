@@ -11,6 +11,7 @@
 
 | Avatar                                                                            | Name                    | steamid                                                                     | is_friend   | BFD                 | removed_time        | Remark   |
 |:----------------------------------------------------------------------------------|:------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:--------------------|:---------|
+| ![](https://avatars.steamstatic.com/e740ac946677c944ae5653ef7b6a1e9e495619dc_full.jpg) | C00018                 | [76561199009185469](https://steamcommunity.com/profiles/76561199009185469/) | ❌           | 2024-09-23 10:38:57 | 2025-01-10 08:57:43 |          |
 | ![](https://avatars.steamstatic.com/9a4e3414c83b02e982c01892e4bbc16244d98a8b.jpg) | 夜草不肥劳病马                 | [76561198965956697](https://steamcommunity.com/profiles/76561198965956697/) | ❌           | 2024-09-23 10:38:57 | 2025-01-10 08:57:43 |          |
 | ![](https://avatars.steamstatic.com/6a8cabc24ca5eac0755b382980da89243ef8aa92.jpg) | Nysh`                   | [76561198271054662](https://steamcommunity.com/profiles/76561198271054662/) | ❌           | 2025-01-07 16:00:57 | 2025-01-09 08:55:51 |          |
 | ![](https://avatars.steamstatic.com/7f95d808d60cf22c14951dc7a5869304fc3fc249.jpg) | lris                    | [76561198438559208](https://steamcommunity.com/profiles/76561198438559208/) | ❌           | 2024-04-28 01:56:38 | 2025-01-04 08:54:41 |          |
